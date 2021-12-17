@@ -41,9 +41,9 @@ round-avatar: true
 social-network-links:
   email: "info@codepate.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: codepatecom
+  facebook: patecode
   github: codepate
-  twitter: codepatecom
+  twitter: patecode
 #  patreon: yourname
 #  youtube: c/yourname
 #  medium: yourname
